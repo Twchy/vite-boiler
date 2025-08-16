@@ -24,7 +24,7 @@ A modern, minimal React application boilerplate built with Vite, TypeScript, and
 
 1. **Clone or download this boilerplate**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/twchy/vite-boilet
    cd your-project-name
    ```
 
